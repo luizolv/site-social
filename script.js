@@ -6,10 +6,12 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const Perguntas = [
     {
-        enunciado: "Pergunta 1"
-        alternativas: [
-            "Altenativa 1"
-            "Altenativa 2"
+        enunciado: "1Para o sociologo Max Weber, os conflitos sociais seriam resultados dos posições assimétricas que os indivíduos ocupam na sociedade 
+Ela chamou de close, estamento  e partido às diferentes esferas 
+Quais essos opções vocês conhecem?"
+        alternativas: 
+            "Altenativa 1Economia"
+            "Altenativa 2Socias"
         ]
     },
     {
