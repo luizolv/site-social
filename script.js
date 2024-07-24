@@ -13,34 +13,38 @@ const perguntas = [
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Socias"
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
+            },
+            {
+                texto: "Política "
+                afirmacao: "Quis saber como usar IA no seu dia a dia."
+            },
+        ],   
+    },
+    {
+        enunciado: "O programa auxílio Brasil criado em 2023, é um progroma de transferência de renda que reuniu outros auxílios existentes. Atualmente, o valor médio recebido por família e de R$ 600,00. É correto afirmar que o programa tem qual objetivo?",
+        alternativas: [
+            {
+                texto:"Reduzir ás taxas de mortalidade intantil"
+                afirmacao: " Ao reduzir a taxa, estiver se o risco de um nascido. Vivo morrer antes de chegar a um ano de vida"
+            },
+            {
+                texto: "Garantir o acesso a serviços essenciais",
+                afirmacao: "Garantir o serviço essenciais garantir atividade de produção, distribuição e comercialização"
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Quais as causas de desigualdade social?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Pobresa",
+                afirmacao: "Pobresa seria muitas pessoas passando necessidade"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
-            }
-        ]
-    },
-    {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
-        alternativas: [
-            {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
-            },
-            {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Concentração de renda",
+                afirmacao: "Concentração de renda seria dinheiro para áreas desnecessárias"
             }
         ]
     },
