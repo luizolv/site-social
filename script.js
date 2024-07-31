@@ -1,4 +1,4 @@
-const caixaPrincipal = document.querySelector(".caixa-principal");
+ caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
@@ -8,7 +8,7 @@ const perguntas = [
     {
       enunciado: "Para o sociologo Max Weber, os conflitos socias seriam resultados das posiçoes assimetricos que os individuos ocupam na sociedades.Ela chamou de close,estamento e partido ás diferentes esferas.Quais essas opçoes vocẽs conhecem?",
         alternativas: [
-            {
+     const       {
                 texto: "Econômica !",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
